@@ -1,0 +1,45 @@
+s1(30Oct2024:16:42:08):  xrun -64bit andgate_tb.sv andgate.sv 
+s2(30Oct2024:16:46:52):  xrun -64bit andgate_tb.sv andgate.sv +gui +access+r 
+s3(31Oct2024:10:48:03):  xrun -64bit andgate_tb.sv andgate.sv 
+s4(31Oct2024:10:48:55):  xrun -64bit andgate_tb.sv andgate.sv +gui +access+r 
+s5(31Oct2024:10:53:17):  xrun -64bit orgate_tb.sv orgate.sv 
+s6(31Oct2024:10:54:02):  xrun -64bit orgate_tb.sv orgate.sv 
+s7(31Oct2024:10:56:23):  xrun -64bit orgate_tb.sv orgate.sv 
+s8(31Oct2024:10:58:05):  xrun -64bit orgate_tb.sv orgate.sv +gui +access+r 
+s9(31Oct2024:11:12:46):  xrun -64bit andgate_tb.sv andgate.sv 
+s10(31Oct2024:11:18:06):  xrun -64bit andgate_tb.sv andgate.sv 
+s11(31Oct2024:11:19:05):  xrun -64bit andgate_tb.sv andgate.sv +gui +access+r 
+s12(31Oct2024:11:23:15):  xrun -64bit orgate_tb.sv orgate.sv 
+s13(31Oct2024:11:24:49):  xrun -64bit orgate_tb.sv orgate.sv +gui +access+r 
+s14(31Oct2024:11:35:02):  xrun -64bit norgate_tb.sv norgate.sv 
+s15(31Oct2024:11:42:46):  xrun -64bit xorgate_tb.sv xorgate.sv 
+s16(31Oct2024:11:44:09):  xrun -64bit xorgate_tb.sv xorgate.sv +gui +access+r 
+s17(31Oct2024:11:57:50):  xrun -64bit notgate_tb.sv notgate.sv 
+s18(31Oct2024:12:00:12):  xrun -64bit notgate_tb.sv notgate.sv 
+s19(31Oct2024:12:03:27):  xrun -64bit notgate_tb.suv notgate.sv +gui +access+r 
+s20(31Oct2024:12:03:54):  xrun -64bit notgate_tb.sv notgate.sv +gui +access+r 
+s21(31Oct2024:12:09:46):  xrun -64bit nandgate_tb.sv nandgate.sv 
+s22(31Oct2024:12:10:44):  xrun -64bit nandgate_tb.sv nandgate.sv +gui +access+r 
+s23(31Oct2024:12:17:07):  xrun -64bit norgate_tb.sv norgate.sv 
+s24(31Oct2024:12:19:39):  xrun -64bit nandgate_tb.sv nandgate.sv 
+s25(31Oct2024:12:20:19):  xrun -64bit norgate_tb.sv norgate.sv 
+s26(31Oct2024:12:24:22):  xrun -64bit norgate_tb.sv norgate.sv 
+s27(31Oct2024:12:25:11):  xrun -64bit norgate_tb.sv norgate.sv +gui +access+r 
+s28(31Oct2024:12:28:45):  xrun -64bit norgate_tb.sv norgate.sv 
+s29(31Oct2024:12:29:23):  xrun -64bit norgate_tb.sv norgate.sv 
+s30(31Oct2024:12:30:00):  xrun -64bit norgate_tb.sv norgate.sv 
+s31(31Oct2024:12:35:06):  xrun -64bit norgate_tb.sv norgate.sv 
+s32(31Oct2024:12:37:12):  xrun -64bit norgate_tb.sv norgate.sv 
+s33(04Nov2024:16:01:38):  xrun -64bit andgate_tb.sv andgate.sv 
+s34(04Nov2024:16:03:37):  xrun -64bit andgate_tb.sv andgate.sv +gui +access+r 
+s35(04Nov2024:16:09:35):  xrun -64bit notgate_tb.sv notgate.sv 
+s36(04Nov2024:16:10:36):  xrun -64bit notgate_tb.sv notgate.sv +gui +access+r 
+s37(04Nov2024:16:14:39):  xrun -64bit orgate_tb.sv orgate.sv 
+s38(04Nov2024:16:16:18):  xrun -64bit orgate_tb.sv orgate.sv +gui +access+r 
+s39(04Nov2024:16:21:34):  xrun -64bit norgate_tb.sv norgate.sv 
+s40(04Nov2024:16:22:19):  xrun -64bit norgate_tb.sv norgate.sv +gui +access+r 
+s41(04Nov2024:16:23:34):  xrun -64bit norgate_tb.sv norgate.sv +gui +access+r 
+s42(04Nov2024:16:26:38):  xrun -64bit nandgate_tb.sv nandgate.sv 
+s43(04Nov2024:16:27:11):  xrun -64bit nandgate_tb.sv nandgate.sv +gui +access+r 
+s44(04Nov2024:16:30:29):  xrun -64bit xorgate_tb.sv xorgate.sv 
+s45(04Nov2024:16:31:15):  xrun -64bit xorgate_tb.sv xorgate.sv +gui +access+r 
